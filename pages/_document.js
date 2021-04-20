@@ -10,7 +10,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-            <title>My portfolio</title>
+            <title>Portfolio</title>
             <meta name="description" content="Ryan Ray Portfolio website"/>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.css"/>
         </Head>

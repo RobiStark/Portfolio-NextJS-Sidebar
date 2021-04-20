@@ -25,3 +25,53 @@ div#__next > div
     border-top-color: #ffbb00;
     border-left-color: #ffbb00;
 }
+
+/* Sidebar */
+
+.sidenav{
+    
+    width: 240px;
+    background: #373a3c;
+    position: absolute;
+    height: 95vh;
+    padding: 20px 20px;
+    left: -100%;
+    transition: all 1s; 
+}
+
+.sidenav.active{
+    left:0;
+    z-index: 1;
+}
+
+.logo{
+    padding-left: 20px;
+}
+ul{
+    padding: 0;
+}
+
+ul li {
+    list-style-type : none;
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+    
+}
+
+ ul li a{
+    color: #eaecef;
+    text-decoration: none;
+    font-size: 16px;
+    display: block;
+    padding: 10px 15px;
+    border-radius: 6px;
+} 
+
+ul li a:hover,
+ul li a.active{
+    background: #ff5a24;
+    color: #eaecef;
+    
+}
+
