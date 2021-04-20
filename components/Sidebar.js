@@ -13,10 +13,9 @@ const Sidebar = ({show}) => {
         <div className={show ? 'sidenav active' : 'sidenav' }>
 
             <div className="logo">
-            <Image src="/logo.png" alt="Logo" width = {30} height={30} />
+            <Image src="/images/logo.png" alt="Logo" width = {30} height={30} />
             </div> 
             <ul>
-            
                 <li>
                     <BsPersonLinesFill color="white" fontSize="1.5em"/>
                     <Link  href="/">

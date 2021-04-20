@@ -14,7 +14,7 @@ const Index = () => (
             <div className="card card-body bg-secondary text-light">
                 <div className="row">
                     <div className="col-md-4">
-                        <img src="roberto-rodriguez.jpeg" alt="" className="img-fluid"/>
+                        <img src="/images/roberto-rodriguez.jpeg" alt="" className="img-fluid"/>
                     </div>
                     <div className="col-md-8">
                         <h1>Roberto Rodriguez</h1>

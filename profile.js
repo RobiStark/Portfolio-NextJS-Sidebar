@@ -49,32 +49,32 @@ export const projects =[
     {
         name: "Awesome website 1",
         description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam, dignissimos. Nobis nesciunt, quibusdam, quas.',
-        imagen: "portfolio1.jpeg"
+        imagen: "./images/portfolio1.jpeg"
     },
     {
         name: "Awesome website 2",
         description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam, dignissimos. Nobis nesciunt, quibusdam, quas.',
-        imagen: "portfolio2.jpg"
+        imagen: "./images/portfolio2.jpg"
     },
     {
         name: "Awesome website 3",
         description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam, dignissimos. Nobis nesciunt, quibusdam, quas.',
-        imagen: "portfolio3.png"
+        imagen: "./images/portfolio3.png"
     },
     {
         name: "Awesome website 4",
         description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam, dignissimos. Nobis nesciunt, quibusdam, quas.',
-        imagen: "portfolio4.png"
+        imagen: "./images/portfolio4.png"
     },
     {
         name: "Awesome website 5",
         description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam, dignissimos. Nobis nesciunt, quibusdam, quas.',
-        imagen: "portfolio5.jpeg"
+        imagen: "./images/portfolio5.jpeg"
     },
     {
         name: "Awesome website 6",
         description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam, dignissimos. Nobis nesciunt, quibusdam, quas.',
-        imagen: "portfolio6.jpeg"
+        imagen: "./images/portfolio6.jpeg"
     }
 ]
 

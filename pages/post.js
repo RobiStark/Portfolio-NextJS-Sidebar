@@ -6,10 +6,10 @@ const Post = () => {
 
         const router = useRouter();
 
-        console.log(router.query.title);
+        //console.log(router.query.title);
 
         const currentPost = posts.filter(post => post.title === router.query.title)[0];
-        console.log(currentPost)
+        //console.log(currentPost)
 
    return(
     <Layout footer = {false} title={currentPost.title}>
