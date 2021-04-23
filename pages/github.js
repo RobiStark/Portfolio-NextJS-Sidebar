@@ -16,7 +16,7 @@ const GitHub = ({user, statusCode}) =>{
                         <h1>RobiStark</h1>
                         <img src="https://avatars.githubusercontent.com/u/41454126?v=4" alt=""/>
                         <p>Desarrollos fullStack con Node, creación de wep y app responsiva</p>
-                        <a href="#" target="_blank" className="btn btn-outline-secondary my-2">My Blog</a>
+                        <a href="#" className="btn btn-outline-secondary my-2">My Blog</a>
                         <a href="https://github.com/RobiStark" target="_blank" className="btn btn-outline-secondary my-2">My Go to GitHub</a>
                     </div>
                 </div>

@@ -47,6 +47,11 @@ div#__next > div
 .logo{
     padding-left: 20px;
 }
+
+.logo img{
+    width: 25%;
+}
+
 ul{
     padding: 0;
 }

@@ -1,4 +1,4 @@
-import Image from 'next/image';
+//import Image from 'next/image';
 import Link from 'next/link';
 import {BsPersonLinesFill} from 'react-icons/bs';
 import {RiArticleFill} from 'react-icons/ri';
@@ -13,7 +13,8 @@ const Sidebar = ({show}) => {
         <div className={show ? 'sidenav active' : 'sidenav' }>
 
             <div className="logo">
-            <Image src="/images/logo.png" alt="Logo" width = {30} height={30} />
+            {/* <Image src="/images/logo.png" alt="Logo" width={30} height={30}/> */}
+            <img src="/images/logo.png" alt="Logo"/>
             </div> 
             <ul>
                 <li>
